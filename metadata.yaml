@@ -1,0 +1,30 @@
+_repo: Duffels_25661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
+description: ''
+gutenberg_issued: '2008-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+tableOfContents: Sister Tabea -- The redemptioner -- A basement story -- The gunpowder
+  plot -- The story of a valentine -- Huldah, the help -- The new cashier -- Priscilla
+  -- Talking for life -- Periwinkle -- The Christmas club.
+title: Duffels
+url: http://www.gutenberg.org/ebooks/25661
