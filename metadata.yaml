@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3293
     wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25661#Duffels
 gutenberg_issued: '2008-05-31'
 gutenberg_type: Text
 identifiers:
